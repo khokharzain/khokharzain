@@ -1,12 +1,16 @@
-<img src="assets/portfolio-banner.svg" alt="Zain Khokhar — Computer Science, software development and AI prompting" width="100%" />
+<img src="assets/portfolio-banner.svg" alt="Zain Khokhar — Final-year Computer Science student, Python, cybersecurity interests and AI prompting" width="100%" />
 
 # Hi, I'm Zain 👋
 
-I'm a **Computer Science student at Queensland University of Technology**, based in Brisbane. I build software that turns everyday problems into clear, useful workflows — from desktop tools and Python automation to database-backed web applications.
+I'm a **final-year Bachelor of Information Technology student, majoring in Computer Science at Queensland University of Technology**, based in Brisbane. **Python is my strongest programming language** — I enjoy building automation, useful desktop tools and database-backed web applications.
 
-**Seeking a computer science or software engineering internship.** My focus is coding, practical problem solving and learning from an engineering team.
+**I'm actively searching for a computer science or software engineering internship.** My strongest areas of interest are **cybersecurity, AI prompting and large language models (LLMs)**, alongside practical software development.
 
-[Explore my projects](#project-directory) · [How I work](#how-i-work) · [LinkedIn](https://www.linkedin.com/in/zain-khokhar-9a3b4a3a5/) · [Email](mailto:khokharzain001@gmail.com)
+[Explore my projects](#project-directory) · [Technical skills](#technical-skills) · [Algorithms and data structures](projects/engineering.md) · [LinkedIn](https://www.linkedin.com/in/zain-khokhar-9a3b4a3a5/) · [Email](mailto:khokharzain001@gmail.com)
+
+## My academic foundation
+
+My degree has given me coursework experience in **cybersecurity and secure network architectures, cloud computing, web development, database management, algorithms and complexity, machine learning, and agile software engineering**. I'm interested in applying these foundations to real software problems and continuing to develop them through an internship.
 
 ## Start here
 
@@ -45,6 +49,35 @@ flowchart TD
     Front --> AM["Anniversary microsite · interaction design"]
 ```
 
+## Technical skills
+
+| Area | Skills and experience |
+| --- | --- |
+| Primary language | **Python** — automation, data processing and web applications |
+| Other project languages | Java, TypeScript, JavaScript, SQL, HTML and CSS; FXML for JavaFX interfaces and shell scripts for supporting tooling |
+| Additional coursework languages | C# and embedded C |
+| Web and desktop development | Flask, SQLAlchemy, Jinja, Bootstrap, React, React Router, JavaFX and rumps |
+| Databases and persistence | SQLite, Cloudflare D1, JDBC/DAO architecture, relational models, prepared statements, migrations, JSON storage and offline caching |
+| Algorithms and data structures | Lists/arrays, dictionaries/maps, sets, sorting/filtering, parsing, aggregation, state transitions and relational data modelling — [project-by-project examples](projects/engineering.md) |
+| Cybersecurity foundations | Coursework in cybersecurity and secure networks; project work with input validation, rate limiting, JWT verification, security headers and platform cryptographic APIs |
+| AI prompting and LLMs | Structured prompts, context and constraints, task decomposition, iterative refinement and output verification; local Ollama integration in the SkillDev team application |
+| Cloud and delivery | Cloudflare Workers, static-assets hosting and D1; AWS and cloud-computing coursework |
+| Data and machine learning coursework | Pandas, NumPy, Jupyter Notebook and machine-learning foundations |
+| Development tools | Git, GitHub, Maven, JUnit, Visual Studio Code and automated checks |
+
+### Techniques behind the projects
+
+| Project | Languages | Data structures and algorithms in the application |
+| --- | --- | --- |
+| Canvas Dates | **Python**, supporting shell scripts | Dictionary lookups, lists of assessment records, iCalendar parsing, date sorting, filtering, weighted aggregation and caching |
+| SkillDev | Java, SQL, FXML | Lists/ArrayLists, sets for deduplication, skill-match scoring, score sorting and relational joins |
+| ApertureX | TypeScript, SQL, HTML/CSS through React | Typed records, arrays, allowlist sets, SQL filtering/pagination, fixed-window rate limiting and JWT verification |
+| Bollywood Beats | Python, SQL, HTML/CSS, JavaScript | Relational entities, catalogue filtering/sorting, capacity aggregation, status rules and Decimal price calculations |
+| Coaching by Manav | JavaScript, HTML/CSS | Element collections, gallery state, frame-based animation, scroll-position wrapping and batched updates |
+| Anniversary microsite | JavaScript, HTML/CSS | Arrays and gallery indices, scene state transitions, date arithmetic and browser SHA-256 digest comparison |
+
+[Explore the implementation examples and source guide →](projects/engineering.md)
+
 ## How I work
 
 **AI prompting is one of my strongest skills.** I use structured instructions, relevant context, task decomposition and iterative refinement to turn broad ideas into manageable coding tasks. I check generated output against the source, requirements and available tests, and take responsibility for the result.
@@ -61,6 +94,7 @@ flowchart LR
 
 | Strength | How it appears in my work |
 | --- | --- |
+| Python | Automation, calendar/API data processing, grade-weight calculations and Flask applications |
 | AI prompting | Clear constraints, contextual instructions, iterative refinement and output verification |
 | Software development | Python, Java, TypeScript/JavaScript, SQL, HTML/CSS and database-backed workflows |
 | Engineering judgement | Separating UI, validation and persistence; documenting what works and what remains planned |
@@ -70,4 +104,4 @@ flowchart LR
 
 Checks run on **1 October 2026**: SkillDev's **86 JUnit tests**, Canvas Dates' **56 offline checks**, and ApertureX's **75 security checks** passed. ApertureX's client-boundary check also passed. These are specific checks, not a claim that every application has a complete automated test suite or production certification. Each project explains its own limitations.
 
-I'm especially interested in **software engineering, Python automation, web applications and AI-assisted development**. I'd welcome the chance to contribute, learn and build useful systems with a team.
+I'm looking for an internship where I can contribute through **Python and software development**, explore **cybersecurity and LLM applications**, and learn from an engineering team. [Let's connect on LinkedIn](https://www.linkedin.com/in/zain-khokhar-9a3b4a3a5/).
